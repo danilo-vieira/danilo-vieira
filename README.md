@@ -8,6 +8,8 @@ Student Experience team at [@Rocketseat](https://github.com/Rocketseat)
 [![Instagram Badge](https://img.shields.io/badge/-@__danilovieira-8257e5?style=flat-square&labelColor=8257e5&logo=instagram&logoColor=white&link=https://www.instagram.com/_danilovieira/)](https://www.instagram.com/_danilovieira/)
 
 Learning day by day and helping devs. Enthusiast of technology and lover of React & NodeJS stack.
+
+![GitHub followers](https://img.shields.io/github/followers/danilo-vieira?labelColor=8257e5&color=8257e5&logo=github&label=Followers&logoColor=white&style=flat-square)
 <!--
 **danilo-vieira/danilo-vieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
