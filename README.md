@@ -5,8 +5,8 @@
 Learning day by day and helping devs. Enthusiast of technology and lover of React & NodeJS stack.
 
 - 🔭 I’m currently working on Student Experience team at [Rocketseat](https://rocketseat.com.br/) 💜
-- 🌱 I’m currently learning NodeJS, ReactJS, React Native, Typescript, Docker and Jest
-- 💬 Ask me about technology
+- 🌱 I’m currently learning NodeJS, ReactJS, React Native, Typescript, Docker and Jest;
+- 💬 Ask me about technology, series, and games;
 - 📫 How to reach me: The badges will help you 😉
 
 ![GitHub followers](https://img.shields.io/github/followers/danilo-vieira?labelColor=8257e5&color=8257e5&logo=github&label=Followers&logoColor=white&style=flat-square)
