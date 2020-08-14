@@ -1,6 +1,6 @@
 # Danilo Vieira
 
-Student Experience team at [@Rocketseat](https://github.com/Rocketseat)
+<img align="right" src="https://ik.imagekit.io/danilovieira/undraw_hacker_mind_6y85_Zn1Vl8GZC.png" width="350"/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Danilo%20Vieira-8257e5?style=flat-square&labelColor=8257e5&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vieira-danilo/)](https://www.linkedin.com/in/vieira-danilo/)
 [![Microsoft Badge](https://img.shields.io/badge/-danilo__strvieira@hotmail.com-8257e5?style=flat-square&labelColor=8257e5&logo=microsoft&logoColor=white&link=mailto:danilo_strvieira@hotmail.com)](mailto:danilo_strvieira@hotmail.com)
@@ -10,16 +10,17 @@ Student Experience team at [@Rocketseat](https://github.com/Rocketseat)
 Learning day by day and helping devs. Enthusiast of technology and lover of React & NodeJS stack.
 
 ![GitHub followers](https://img.shields.io/github/followers/danilo-vieira?labelColor=8257e5&color=8257e5&logo=github&label=Followers&logoColor=white&style=flat-square)
+
+- 🔭 I’m currently working on Student Experience team at [Rocketseat](https://rocketseat.com.br/) 💜
+- 🌱 I’m currently learning NodeJS, ReactJS, React Native, Typescript, Docker and Jest
+- 💬 Ask me about technology
+- 📫 How to reach me: The badges will help you 😉
+
+
 <!--
 **danilo-vieira/danilo-vieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
