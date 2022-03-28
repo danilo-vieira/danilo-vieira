@@ -4,8 +4,7 @@
 
 Learning day by day and helping devs. Enthusiast of technology and lover of React & NodeJS stack.
 
-- 🔭 I’m currently working on Student Experience team at [Rocketseat](https://rocketseat.com.br/) 💜
-- 🌱 I’m currently learning NodeJS, ReactJS, React Native, Typescript, Docker and Jest;
+- 🔭 I’m currently working at Grupo Primo
 - 💬 Ask me about technology, series and games;
 - 📫 How to reach me: The badges will help you 😉
 
